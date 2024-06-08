@@ -100,12 +100,12 @@ Final Exam Prep
 
 ## Connections
 
--[Connections 1](https://sahana-sarangi.github.io/hahats/docs/math/hw/connections1.pdf){:target="_blank"} Some notes
+- [Connections 1](https://sahana-sarangi.github.io/hahats/docs/math/hw/connections1.pdf){:target="_blank"} Some notes
 
--[Connections 2](https://sahana-sarangi.github.io/hahats/docs/math/hw/Connections2.pdf){:target="_blank"} Some notes
+- [Connections 2](https://sahana-sarangi.github.io/hahats/docs/math/hw/Connections2.pdf){:target="_blank"} Some notes
 
--[Connections 3](https://sahana-sarangi.github.io/hahats/docs/math/hw/connections3.pdf){:target="_blank"} Some notes
+- [Connections 3](https://sahana-sarangi.github.io/hahats/docs/math/hw/connections3.pdf){:target="_blank"} Some notes
 
--[Connections 4](https://sahana-sarangi.github.io/hahats/docs/math/hw/connections4.pdf){:target="_blank"} Some notes
+- [Connections 4](https://sahana-sarangi.github.io/hahats/docs/math/hw/connections4.pdf){:target="_blank"} Some notes
 
 
