@@ -59,7 +59,13 @@ Chapter 12: "Logarithmic Functions." Working with and manipulating logarithmic e
 
 ---
 
-Chapter 13:
+- [Homework 6](https://sahana-sarangi.github.io/hahats/docs/math/winter/winterhw/hw6.pdf){:target="_blank"}
+- [Homework 7](https://sahana-sarangi.github.io/hahats/docs/math/winter/winterhw/hw7.pdf){:target="_blank"}
+- [Homework 8](https://sahana-sarangi.github.io/hahats/docs/math/winter/winterhw/hw8.pdf){:target="_blank"}
+- [Homework 9](https://sahana-sarangi.github.io/hahats/docs/math/winter/winterhw/hw9.pdf){:target="_blank"}
+- [Homework 10](https://sahana-sarangi.github.io/hahats/docs/math/winter/winterhw/hw10.pdf){:target="_blank"}
+  
+
 
 
 
