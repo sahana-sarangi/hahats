@@ -69,6 +69,17 @@ Chapter 7: "Quadratic Modeling." Different methods to model quadratics.
 
 Final Exam Prep
 -[Homework 18](https://sahana-sarangi.github.io/hahats/docs/math/fall/hw/hw18.pdf){:target="_blank"} Some notes
+
 -[Homework 19](https://sahana-sarangi.github.io/hahats/docs/math/fall/hw/hw19.pdf){:target="_blank"} Some notes
+
+## Connections
+
+-[Connections 1](https://sahana-sarangi.github.io/hahats/docs/math/fall/hw/connections1.pdf){:target="_blank"} Some notes
+
+-[Connections 2](https://sahana-sarangi.github.io/hahats/docs/math/fall/hw/Connections2.pdf){:target="_blank"} Some notes
+
+-[Connections 3](https://sahana-sarangi.github.io/hahats/docs/math/fall/hw/connections3.pdf){:target="_blank"} Some notes
+
+-[Connections 4](https://sahana-sarangi.github.io/hahats/docs/math/fall/hw/connections4.pdf){:target="_blank"} Some notes
 
 
