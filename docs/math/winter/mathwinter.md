@@ -52,7 +52,14 @@ Chapter 11: "Exponential Modeling." Constructing exponential models to model dif
 
 ---
 
-Chapter 12: 
+Chapter 12: "Logarithmic Functions." Working with and manipulating logarithmic equations in logarithmic situations.
+{: .fs-4 .fw-300 }
+
+- [Homework 5](https://sahana-sarangi.github.io/hahats/docs/math/winter/winterhw/hw5.pdf){:target="_blank"}
+
+---
+
+Chapter 13:
 
 
 
