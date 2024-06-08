@@ -8,7 +8,6 @@ permalink: /docs/math/
 
 # Math Work
 
----
 some notes about math
 {: .fs-6 .fw-300 }
 
