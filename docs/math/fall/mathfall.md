@@ -20,7 +20,7 @@ some notes
 
 
 
-## Homeworks
+### Homeworks
 
 Chapter 1: "Warming Up." Units and rates, change, and the modeling process.
 {: .fs-4 .fw-300 }
@@ -97,7 +97,7 @@ Final Exam Prep
 
 
 
-## Connections
+### Connections
 {: .fs-4 .fw-300 }
 
 -[Connections 1](https://sahana-sarangi.github.io/hahats/docs/math/fall/hw/connections1.pdf){:target="_blank"} Some notes
