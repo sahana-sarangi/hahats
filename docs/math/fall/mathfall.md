@@ -15,8 +15,10 @@ some notes
 
 ## Projects
 {: .fs-4 .fw-300 }
+
 - [Project 1: On Peanuts, Circles, and Infinities.](https://sahana-sarangi.github.io/hahats/docs/math/fall/hw/Sahana_Project1.pdf){:target="_blank"} Some notes
 
+<br>
 
 ## Homeworks
 
@@ -89,6 +91,7 @@ Final Exam Prep
 
 - [Homework 19](https://sahana-sarangi.github.io/hahats/docs/math/fall/hw/hw19.pdf){:target="_blank"} Some notes
 
+<br>
 
 ## Connections
 {: .fs-4 .fw-300 }
