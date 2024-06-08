@@ -45,6 +45,15 @@ Chapter 10: "Exponential Functions." Rules of exponents and manipulating exponen
 
 ---
 
+Chapter 11: "Exponential Modeling." Constructing exponential models to model different types of compound interest and other exponential situations.
+{: .fs-4 .fw-300 }
+
+- [Homework 4](https://sahana-sarangi.github.io/hahats/docs/math/winter/winterhw/hw4.pdf){:target="_blank"}
+
+---
+
+Chapter 12: 
+
 
 
 
