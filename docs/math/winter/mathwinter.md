@@ -52,16 +52,31 @@ Chapter 11: "Exponential Modeling." Constructing exponential models to model dif
 
 ---
 
-Chapter 12: "Logarithmic Functions." Working with and manipulating logarithmic equations in logarithmic situations.
+Midterm Prep
 {: .fs-4 .fw-300 }
 
 - [Homework 5](https://sahana-sarangi.github.io/hahats/docs/math/winter/winterhw/hw5.pdf){:target="_blank"}
 
 ---
 
+Chapter 12: "Logarithmic Functions." Working with and manipulating logarithmic equations in logarithmic situations.
+{: .fs-4 .fw-300 }
+
 - [Homework 6](https://sahana-sarangi.github.io/hahats/docs/math/winter/winterhw/hw6.pdf){:target="_blank"}
 - [Homework 7](https://sahana-sarangi.github.io/hahats/docs/math/winter/winterhw/hw7.pdf){:target="_blank"}
+
+---
+
+Chapter 13: "Three Construction Tools." Reflections, shifts, and dilations.
+{: .fs-4 .fw-300 }
+
 - [Homework 8](https://sahana-sarangi.github.io/hahats/docs/math/winter/winterhw/hw8.pdf){:target="_blank"}
+
+---
+
+Chapter 14: "Rational Functions." Modeling and manipulating linear-to-linear rational functions.
+{: .fs-4 .fw-300 }
+
 - [Homework 9](https://sahana-sarangi.github.io/hahats/docs/math/winter/winterhw/hw9.pdf){:target="_blank"}
 - [Homework 10](https://sahana-sarangi.github.io/hahats/docs/math/winter/winterhw/hw10.pdf){:target="_blank"}
   
