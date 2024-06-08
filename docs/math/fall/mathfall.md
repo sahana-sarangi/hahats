@@ -28,7 +28,7 @@ Chapter 1: "Warming Up." Units and rates, change, and the modeling process.
 
 - [Homework 1](https://sahana-sarangi.github.io/hahats/docs/math/hw/hw1.pdf){:target="_blank"} Some notes
   
-- [Homework 2](https://sahana-sarangi.github.io/hahats/docs/math/hw/hw2.pdf){:target="_blank"} Some notes
+- [Homework 2](https://sahana-sarangi.github.io/hahats/docs/math/hw/Homework2.pdf){:target="_blank"} Some notes
 
 ---
 
