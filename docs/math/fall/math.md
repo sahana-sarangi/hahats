@@ -10,3 +10,4 @@ permalink: /docs/math/fall
 
 ---
 some notes about math
+{: .fs-6 .fw-300 }
