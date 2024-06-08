@@ -92,6 +92,7 @@ Final Exam Prep
 
 ## Connections
 {: .fs-4 .fw-300 }
+
 -[Connections 1](https://sahana-sarangi.github.io/hahats/docs/math/fall/hw/connections1.pdf){:target="_blank"} Some notes
 
 -[Connections 2](https://sahana-sarangi.github.io/hahats/docs/math/fall/hw/Connections2.pdf){:target="_blank"} Some notes
