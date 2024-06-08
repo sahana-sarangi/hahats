@@ -7,7 +7,7 @@ has_children: false
 permalink: /docs/math/winter
 ---
 
-# Fall Math Work
+# Winter Math Work
 
 ---
 
