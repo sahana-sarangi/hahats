@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Fall Precalculus
-parent: Math
+title: Fall
+parent: Precalculus
 nav_order: 1
 has_children: false
 permalink: /docs/math/fall
