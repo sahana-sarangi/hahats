@@ -62,32 +62,32 @@ Chapter 5: "Functions and Graphs." Properties of functions, graphs of functions,
 
 Chapter 6: "Graphical Analysis." Domain and range, intercepts, increasing and decreasing graphs, circles and semicircles, and multiparts.
 {: .fs-4 .fw-300 }
--[Homework 11](https://sahana-sarangi.github.io/hahats/docs/math/fall/hw/hw11.pdf){:target="_blank"} Some notes
+- [Homework 11](https://sahana-sarangi.github.io/hahats/docs/math/fall/hw/hw11.pdf){:target="_blank"} Some notes
 
--[Homework 12](https://sahana-sarangi.github.io/hahats/docs/math/fall/hw/hw12.pdf){:target="_blank"} Some notes
+- [Homework 12](https://sahana-sarangi.github.io/hahats/docs/math/fall/hw/hw12.pdf){:target="_blank"} Some notes
 
--[Homework 13](https://sahana-sarangi.github.io/hahats/docs/math/fall/hw/hw13.pdf){:target="_blank"} Some notes
+- [Homework 13](https://sahana-sarangi.github.io/hahats/docs/math/fall/hw/hw13.pdf){:target="_blank"} Some notes
 
 <br>
 
 Chapter 7: "Quadratic Modeling." Different methods to model quadratics.
 {: .fs-4 .fw-300 }
--[Homework 14](https://sahana-sarangi.github.io/hahats/docs/math/fall/hw/hw14.pdf){:target="_blank"} Some notes
+- [Homework 14](https://sahana-sarangi.github.io/hahats/docs/math/fall/hw/hw14.pdf){:target="_blank"} Some notes
 
--[Homework 15](https://sahana-sarangi.github.io/hahats/docs/math/fall/hw/hw15.pdf){:target="_blank"} Some notes
+- [Homework 15](https://sahana-sarangi.github.io/hahats/docs/math/fall/hw/hw15.pdf){:target="_blank"} Some notes
 
--[Homework 16](https://sahana-sarangi.github.io/hahats/docs/math/fall/hw/hw16.pdf){:target="_blank"} Some notes
+- [Homework 16](https://sahana-sarangi.github.io/hahats/docs/math/fall/hw/hw16.pdf){:target="_blank"} Some notes
 
--[Homework 17](https://sahana-sarangi.github.io/hahats/docs/math/fall/hw/hw17.pdf){:target="_blank"} Some notes
+- [Homework 17](https://sahana-sarangi.github.io/hahats/docs/math/fall/hw/hw17.pdf){:target="_blank"} Some notes
 
 <br>
 
 Final Exam Prep
 {: .fs-4 .fw-300 }
 
--[Homework 18](https://sahana-sarangi.github.io/hahats/docs/math/fall/hw/hw18.pdf){:target="_blank"} Some notes
+- [Homework 18](https://sahana-sarangi.github.io/hahats/docs/math/fall/hw/hw18.pdf){:target="_blank"} Some notes
 
--[Homework 19](https://sahana-sarangi.github.io/hahats/docs/math/fall/hw/hw19.pdf){:target="_blank"} Some notes
+- [Homework 19](https://sahana-sarangi.github.io/hahats/docs/math/fall/hw/hw19.pdf){:target="_blank"} Some notes
 
 
 ## Connections
