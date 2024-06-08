@@ -39,6 +39,8 @@ Chapter 9: "Inverse Functions." Non-trigonometric inverse functions and their gr
 ---
 
 Chapter 10: "Exponential Functions." Rules of exponents and manipulating exponential equations.
+{: .fs-4 .fw-300 }
+
 - [Homework 2](https://sahana-sarangi.github.io/hahats/docs/math/winter/winterhw/hw2.pdf){:target="_blank"}
 
 ---
