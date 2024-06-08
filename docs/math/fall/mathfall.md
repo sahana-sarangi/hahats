@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Mathematics
+parent: Math
 nav_order: 1
 has_children: false
 permalink: /docs/math/fall
