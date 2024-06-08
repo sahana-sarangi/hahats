@@ -18,6 +18,9 @@ a note about lecture notes
 
 <br>
 
+hi
+{: .fs-4 .fw-300 }
+
 - [Lecture 1.0] (https://sahana-sarangi.github.io/hahats/docs/history/fall/Lecture0.pdf){:target="_blank"} What is history?
 - [Lecture 1.1] (https://sahana-sarangi.github.io/hahats/docs/history/fall/Lecture1.pdf){:target="_blank"} Settler Colonialism
 - [Lecture 1.2] (https://sahana-sarangi.github.io/hahats/docs/history/fall/Lecture2.pdf){:target="_blank"} Political Ideologies
