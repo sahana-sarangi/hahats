@@ -17,14 +17,14 @@ a note about my writing
 
 ---
 
-# Summaries
+## Summaries
 
 - ["The Birth of a Nation" by Roxanne Dunbar-Ortiz.](https://sahana-sarangi.github.io/hahats/docs/history/fall/DunbarOrtizSummary.pdf){:target="_blank"} Some notes
 - ["Conquerors and Victims: The Image of America Forms (1500-1800)" by Juan Gonzalez.](https://sahana-sarangi.github.io/hahats/docs/history/fall/GonzalezSummary.pdf){:target="_blank"} Some notes
 - ["From Sea to Shining Sea" by Roxanne Dunbar-Ortiz.](https://sahana-sarangi.github.io/hahats/docs/history/fall/fromseatoshiningseasummary.pdf){:target="_blank"} Some notes
 
 ---
-# Reading Responses
+## Reading Responses
 
 - ["Declaring Independence" by Davidson and Lytle.](https://sahana-sarangi.github.io/hahats/docs/history/fall/ATFrr3.pdf){:target="_blank"} Some notes
 - [Great Awakening primary sources response](https://sahana-sarangi.github.io/hahats/docs/history/fall/GArr.pdf){:target="_blank"} Some notes
