@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Fall
-parent: History
 nav_order: 1
 permalink: /docs/history/fall
 has_children: true
