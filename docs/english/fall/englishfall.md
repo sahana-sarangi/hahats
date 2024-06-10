@@ -27,6 +27,7 @@ some notes
 
 - ["Shepherding Through Generational Hierarchy."](https://sahana-sarangi.github.io/hahats/docs/english/fall/strangeness.pdf){:target="_blank"}
 - ["Female Misogyny in *Much Ado About Nothing*."](https://sahana-sarangi.github.io/hahats/docs/english/fall/muchadoessay.pdf){:target="_blank"}
+- [An Essay on Education.](https://sahana-sarangi.github.io/hahats/docs/english/fall/educationessay.pdf){:target="_blank"}
 
 ---
 
