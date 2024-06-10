@@ -18,4 +18,4 @@ a note about lecture notes
 
 ---
 
-- [Lecture 2.1](https://sahana-sarangi.github.io/hahats/history/winter/2.1){:target="_blank"}
+
