@@ -34,7 +34,7 @@ a note about my writing
 - ["Mirror with a Memory" by Davidson and Lytle, excerpts from *The Jungle* by Upton Sinclair.](https://sahana-sarangi.github.io/hahats/docs/history/winter/artwanagendadq.pdf){:target="_blank"}
 - ["Dust Bowl Odyssey" by Davidson and Lytle.](https://sahana-sarangi.github.io/hahats/docs/history/winter/dustbowlodysseydq.pdf){:target="_blank"}
 - ["'No Jap Crow': Japanese Americans Encounter the World War II South” by Jason Morgan Ward.](https://sahana-sarangi.github.io/hahats/docs/history/winter/warddq.pdf){:target="_blank"}
-- ["The Decision to Drop the Bomb" by Davidson and Lytle."](https://sahana-sarangi.github.io/hahats/docs/history/winter/decisiontodropthebombdq.pdf){:target="_blank"}
+- ["The Decision to Drop the Bomb" by Davidson and Lytle.](https://sahana-sarangi.github.io/hahats/docs/history/winter/decisiontodropthebombdq.pdf){:target="_blank"}
 - ["Sitting In" by Davidson and Lytle.](https://sahana-sarangi.github.io/hahats/docs/history/winter/sittingindq.pdf){:target="_blank"}
 
 ---
