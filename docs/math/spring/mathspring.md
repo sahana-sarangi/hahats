@@ -17,6 +17,8 @@ some notes
 
 ## Projects
 
+- [Project 4](https://sahana-sarangi.github.io/hahats/docs/spring/springhw/Project 4.pdf){:target="_blank"}
+- [Project 5](https://sahana-sarangi.github.io/hahats/docs/spring/springhw/Project 5.pdf){:target="_blank"}
 
 ---
 
