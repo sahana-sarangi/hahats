@@ -30,8 +30,23 @@ Statistics.
 - [Homework 1](https://sahana-sarangi.github.io/hahats/docs/math/spring/springhw/Homework1.pdf){:target="_blank"}
 - [Homework 2](https://sahana-sarangi.github.io/hahats/docs/math/spring/springhw/Homework 2.pdf){:target="_blank"}
 - [Homework 3](https://sahana-sarangi.github.io/hahats/docs/math/spring/springhw/Homework 3.pdf){:target="_blank"}
+
+---
+
+Chapter 15: "Measuring an Angle" and Chapter 16: "Measuring Circular Motion." Central and angles, areas of sectors, different ways to measure circular motion.
+{: .fs-4 .fw-300 }
+
 - [Homework 4](https://sahana-sarangi.github.io/hahats/docs/math/spring/springhw/Homework 4.pdf){:target="_blank"}
+---
+
+Midterm Prep
+{: .fs-4 .fw-300 }
+
 - [Homework 5](https://sahana-sarangi.github.io/hahats/docs/math/spring/springhw/Homework 5.pdf){:target="_blank"}
+
+---
+
+
 - [Homework 6](https://sahana-sarangi.github.io/hahats/docs/math/spring/springhw/Homework 6.pdf){:target="_blank"}
 - [Homework 7](https://sahana-sarangi.github.io/hahats/docs/math/spring/springhw/Homework 7.pdf){:target="_blank"}
 - [Homework 8](https://sahana-sarangi.github.io/hahats/docs/math/spring/springhw/Homework 8.pdf){:target="_blank"}
