@@ -61,11 +61,5 @@ Chapter 19: "Sinusoidal Functions" and Chapter 20: "Inverse Circular Functions."
 - [Homework 8](https://sahana-sarangi.github.io/hahats/docs/math/spring/springhw/Homework 8.pdf){:target="_blank"}
 - [Homework 9](https://sahana-sarangi.github.io/hahats/docs/math/spring/springhw/Homework 9.pdf){:target="_blank"}
 
----
-
-Wrap-up: last homework.
-{: .fs-4 .fw-300 }
-
-- [Homework 10](https://sahana-sarangi.github.io/hahats/docs/math/spring/springhw/Homework 10.pdf){:target="_blank"}
 
 
