@@ -12,6 +12,10 @@ has_children: false
 History
 {: .fs-6 .fw-300 }
 
+---
+
 ## Writing
+
+---
 
 [Annotated Bibliography](https://sahana-sarangi.github.io/hahats/docs/history/spring/annotatedbib.pdf){:target="_blank"}
