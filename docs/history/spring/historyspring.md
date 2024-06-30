@@ -9,5 +9,17 @@ has_children: false
 
 # Spring Quarter
 
-History
+
+
+# Writing
+
+Winter History
 {: .fs-6 .fw-300 }
+
+---
+
+a note about my writing
+
+---
+
+## Reading Responses
