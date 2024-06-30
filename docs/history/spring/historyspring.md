@@ -4,7 +4,7 @@ title: Spring
 parent: History
 nav_order: 3
 permalink: /docs/history/spring
-has_children: true
+has_children: false
 ---
 
 # Spring Quarter
