@@ -12,6 +12,6 @@ has_children: false
 History
 {: .fs-6 .fw-300 }
 
-# Writing
+## Writing
 
 hello!
