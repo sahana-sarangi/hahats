@@ -37,6 +37,7 @@ Chapter 15: "Measuring an Angle" and Chapter 16: "Measuring Circular Motion." Ce
 {: .fs-4 .fw-300 }
 
 - [Homework 4](https://sahana-sarangi.github.io/hahats/docs/math/spring/springhw/Homework 4.pdf){:target="_blank"}
+  
 ---
 
 Midterm Prep
@@ -46,11 +47,25 @@ Midterm Prep
 
 ---
 
+Chapter 17: "The Circular Functions" and Chapter 18: "Trigonometric Functions." Right triangles, sine, cosine, tangent, other trig functions, graphs of trig functions.
+{: .fs-4 .fw-300 }
 
 - [Homework 6](https://sahana-sarangi.github.io/hahats/docs/math/spring/springhw/Homework 6.pdf){:target="_blank"}
+  
+---
+
+Chapter 19: "Sinusoidal Functions" and Chapter 20: "Inverse Circular Functions." Sinusoidal graphs and behavior, solving inverse trig functions.
+{: .fs-4 .fw-300 }
+
 - [Homework 7](https://sahana-sarangi.github.io/hahats/docs/math/spring/springhw/Homework 7.pdf){:target="_blank"}
 - [Homework 8](https://sahana-sarangi.github.io/hahats/docs/math/spring/springhw/Homework 8.pdf){:target="_blank"}
 - [Homework 9](https://sahana-sarangi.github.io/hahats/docs/math/spring/springhw/Homework 9.pdf){:target="_blank"}
-- [Homework 10](https://sahana-sarangi.github.io/hahats/docs/math/spring/springhw/Homework 10.pdf){:target="_blank"}
 
 ---
+
+Wrap-up: last homework.
+{: .fs-4 .fw-300 }
+
+- [Homework 10](https://sahana-sarangi.github.io/hahats/docs/math/spring/springhw/Homework 10.pdf){:target="_blank"}
+
+
