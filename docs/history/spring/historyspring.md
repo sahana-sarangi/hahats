@@ -14,4 +14,4 @@ History
 
 ## Writing
 
-hello!
+[Annotated Bibliography](https://sahana-sarangi.github.io/hahats/docs/history/spring/annotatedbib.pdf){:target="_blank"}
