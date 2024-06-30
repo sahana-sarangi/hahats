@@ -14,8 +14,11 @@ History
 
 ---
 
-## Writing
+a note about my writing
 
 ---
+
+## Writing
+
 
 [Annotated Bibliography](https://sahana-sarangi.github.io/hahats/docs/history/spring/annotatedbib.pdf){:target="_blank"}
